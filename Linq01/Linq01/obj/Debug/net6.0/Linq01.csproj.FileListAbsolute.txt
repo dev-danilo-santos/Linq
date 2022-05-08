@@ -1,0 +1,15 @@
+C:\Users\danil\source\repos\Linq01\Linq01\bin\Debug\net6.0\Linq01.exe
+C:\Users\danil\source\repos\Linq01\Linq01\bin\Debug\net6.0\Linq01.deps.json
+C:\Users\danil\source\repos\Linq01\Linq01\bin\Debug\net6.0\Linq01.runtimeconfig.json
+C:\Users\danil\source\repos\Linq01\Linq01\bin\Debug\net6.0\Linq01.dll
+C:\Users\danil\source\repos\Linq01\Linq01\bin\Debug\net6.0\Linq01.pdb
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.AssemblyInfo.cs
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.dll
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\refint\Linq01.dll
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.pdb
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\Linq01.genruntimeconfig.cache
+C:\Users\danil\source\repos\Linq01\Linq01\obj\Debug\net6.0\ref\Linq01.dll
